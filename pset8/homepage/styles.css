@@ -1,0 +1,63 @@
+h1{
+    font-size: big;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+p {
+    position: relative;
+    top: 40px;
+    left: 15px;
+    font-size: 40px;
+    color: grey;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+    color: black;
+}
+
+
+
+table {
+    position: relative;
+    top:60px;
+
+}
+
+.link {
+
+    color: grey;
+    font-style: italic;
+}
+.p1link {
+
+    font-size: 40px;
+    color: grey;
+    font-style: italic;
+
+}
+
+img {
+    position: relative;
+    max-width:60%;
+    height:auto;
+    top:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+   position: relative;
+    top:60px;
+    left: 30px;
+  text-align: center;
+
+}
